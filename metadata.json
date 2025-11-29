@@ -1,0 +1,8 @@
+{
+  "name": "HUMM",
+  "description": "Personal Cognitive Load Manager (PCLM) for 2125. Filters and prioritizes information streams to prevent cognitive burnout using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
